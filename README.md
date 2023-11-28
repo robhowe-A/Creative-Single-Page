@@ -43,7 +43,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Creative-Single-Page](https://robhowe-a.github.io/Creative-Single-Page/website/index.html)
+- Live Site URL: [Creative-Single-Page](https://robhowe-a.github.io/Creative-Single-Page/index.html)
 
 ## My process
 
