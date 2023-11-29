@@ -665,10 +665,15 @@ main {
 
         & div {
             margin-inline: 1.5rem;
+
+        }
+
+        & svg {
+            display: none;
         }
 
         /* Styles for tablet */
-        @media screen and (min-width: 501px) {
+        @media screen and (min-width: 700px) {
             & {
                 padding-top: 0;
 
@@ -676,14 +681,15 @@ main {
                     display: flex;
                     flex-direction: row;
                     align-items: center;
+                    justify-content: space-between;
 
                     & h2 {
-                        margin-right: 2em;
+                        width: 50%;
+                        text-align: left;
                     }
 
                     & a {
                         text-align: center;
-                        width: 200px;
                         padding: 2em;
                         margin-block: 2em;
                         height: fit-content;
@@ -700,13 +706,14 @@ main {
 
         @media screen and (min-width: 1000px) {
             & div {
-                margin-left: 150px;
+                margin-inline: 150px;
             }
         }
 
         @media screen and (min-width: 1200px) {
             & div {
                 height: 142px;
+                position: relative;
 
                 & h2 {
                     width: 60%;
@@ -717,8 +724,13 @@ main {
                     line-height: initial;
                 }
             }
-        }
 
+            & svg {
+                display: block;
+                position: absolute;
+                left: -217px;
+            }
+        }
     }
 
     /* Styles for tablet */
