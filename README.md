@@ -29,17 +29,25 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 - Navigate the slider using either their mouse/trackpad or keyboard
 
+----
+
 ### Screenshot (Desktop)
 
 <img src="./Web capture_1440-resolution.jpeg" alt="Web capture at resolution 1440 pixels.">
+
+----
 
 ### Screenshot (Tablet)
 
 <img src="./Web capture_768-resolution.jpeg" alt="Web capture at resolution 768 pixels.">
 
+----
+
 ### Screenshot (Mobile)
 
 <img src="./Web capture_375-resolution.jpeg" alt="Web capture at resolution 375 pixels.">
+
+----
 
 ### Links
 
