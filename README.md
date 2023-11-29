@@ -8,9 +8,9 @@ This is a solution to the [Creative agency single page site challenge on Fronten
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [The challenge](#the-challenge)
-    - [Screenshot (Mobile)](#screenshot-mobile)
-    - [Screenshot (Tablet)](#screenshot-tablet)
     - [Screenshot (Desktop)](#screenshot-desktop)
+    - [Screenshot (Tablet)](#screenshot-tablet)
+    - [Screenshot (Mobile)](#screenshot-mobile)
     - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
@@ -29,7 +29,7 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 - Navigate the slider using either their mouse/trackpad or keyboard
 
-### Screenshot (Mobile)
+### Screenshot (Desktop)
 
 <img src="./Web capture_1440-resolution.jpeg" alt="Web capture at resolution 1440 pixels.">
 
@@ -37,7 +37,7 @@ Users should be able to:
 
 <img src="./Web capture_768-resolution.jpeg" alt="Web capture at resolution 768 pixels.">
 
-### Screenshot (Desktop)
+### Screenshot (Mobile)
 
 <img src="./Web capture_375-resolution.jpeg" alt="Web capture at resolution 375 pixels.">
 
