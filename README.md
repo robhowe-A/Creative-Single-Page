@@ -53,6 +53,12 @@ Users should be able to:
 
 - Live Site URL: [Creative-Single-Page](https://robhowe-a.github.io/Creative-Single-Page/index.html)
 
+### Try it yourself
+- This is a static website repository. Becasue there's no webserver configuration in the project files, it can be used anywhere! Try Brackets IDE with these instructions:
+1. Open Brackets web IDE: [https://phcode.dev/](https://phcode.dev/)  
+2. Click add a GitHub project  
+3. Enter the url: https://github.com/robhowe-A/Creative-Single-Page.git
+
 ## My process
 
 ### Built with
