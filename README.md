@@ -58,6 +58,9 @@ Users should be able to:
 1. Open Brackets web IDE: [https://phcode.dev/](https://phcode.dev/)  
 2. Click add a GitHub project  
 3. Enter the url: https://github.com/robhowe-A/Creative-Single-Page.git
+4. Click 'index.html' in the docs folder for brackets to show the code editor/web server
+5. In Brackets, ensure the live preview is enabled (it starts by default the first attempt)
+   > Brackets is special with markup styling. It highlights the selected element in the view page while you're writing the HTML or CSS.
 
 ## My process
 
