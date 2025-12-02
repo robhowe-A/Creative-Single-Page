@@ -2,7 +2,7 @@
 
 - Demo site URL: [Creative-Single-Page](https://robhowe-a.github.io/Creative-Single-Page/index.html)
 
-This is a solution to a [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is my solution to a [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Built with  
 
