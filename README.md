@@ -1,3 +1,11 @@
+<!-- 
+Copyright (c) 2022-2026 Robert A. Howell
+Author: Robert A. Howell
+Description: A demo website built from a pre-designed template.
+Created_Date: December 2022
+Edited: 2026-01-19
+-->
+
 # Creative Agency Single Page  
 
 - Demo site URL: [Creative-Single-Page](https://robhowe-a.github.io/Creative-Single-Page/index.html)
